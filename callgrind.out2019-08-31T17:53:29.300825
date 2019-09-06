@@ -1,0 +1,2025 @@
+version: 1
+creator: yappi
+pid: 2316
+cmd:  /bench/coding/goodreads/gr/gr2.py rd /mnt/t/audiobooks/our_occulted_history
+part: 1
+
+events: Ticks
+
+fl=(0) /bench/coding/goodreads/gr/gr2.py
+fl=(217) /usr/lib/python3.7/subprocess.py
+fl=(2) /usr/lib/python3.7/argparse.py
+fl=(240) /bench/coding/goodreads/gr/gr2.py
+fl=(223) /usr/lib/python3.7/subprocess.py
+fl=(9) /usr/lib/python3.7/re.py
+fl=(12) /usr/lib/python3.7/sre_compile.py
+fl=(8) /usr/lib/python3.7/re.py
+fl=(52) /usr/lib/python3.7/gettext.py
+fl=(53) /usr/lib/python3.7/gettext.py
+fl=(54) /usr/lib/python3.7/gettext.py
+fl=(55) /usr/lib/python3.7/gettext.py
+fl=(215) /bench/coding/goodreads/gr/gr2.py
+fl=(13) /usr/lib/python3.7/sre_parse.py
+fl=(3) /usr/lib/python3.7/argparse.py
+fl=(79) /usr/lib/python3.7/argparse.py
+fl=(17) /usr/lib/python3.7/sre_parse.py
+fl=(109) /usr/lib/python3.7/argparse.py
+fl=(110) /usr/lib/python3.7/argparse.py
+fl=(113) /usr/lib/python3.7/argparse.py
+fl=(118) /usr/lib/python3.7/argparse.py
+fl=(19) /usr/lib/python3.7/sre_parse.py
+fl=(33) /usr/lib/python3.7/sre_compile.py
+fl=(119) /usr/lib/python3.7/argparse.py
+fl=(122) /usr/lib/python3.7/re.py
+fl=(136) /home/you/.local/lib/python3.7/site-packages/regex/regex.py
+fl=(89) /usr/lib/python3.7/argparse.py
+fl=(90) /usr/lib/python3.7/argparse.py
+fl=(137) /home/you/.local/lib/python3.7/site-packages/regex/regex.py
+fl=(68) /usr/lib/python3.7/posixpath.py
+fl=(41) /usr/lib/python3.7/sre_compile.py
+fl=(234) /usr/lib/python3.7/subprocess.py
+fl=(232) /usr/lib/python3.7/subprocess.py
+fl=(218) /usr/lib/python3.7/subprocess.py
+fl=(28) /usr/lib/python3.7/sre_parse.py
+fl=(34) /usr/lib/python3.7/sre_compile.py
+fl=(145) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(146) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(63) /usr/lib/python3.7/gettext.py
+fl=(73) /usr/lib/python3.7/genericpath.py
+fl=(77) /usr/lib/python3.7/argparse.py
+fl=(78) /usr/lib/python3.7/argparse.py
+fl=(35) /usr/lib/python3.7/sre_parse.py
+fl=(149) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(225) /usr/lib/python3.7/posixpath.py
+fl=(70) /usr/lib/python3.7/posixpath.py
+fl=(27) /usr/lib/python3.7/sre_parse.py
+fl=(21) /usr/lib/python3.7/sre_parse.py
+fl=(4) /usr/lib/python3.7/argparse.py
+fl=(42) /usr/lib/python3.7/sre_compile.py
+fl=(128) /usr/lib/python3.7/argparse.py
+fl=(151) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(57) /usr/lib/python3.7/os.py
+fl=(241) /usr/lib/python3.7/subprocess.py
+fl=(152) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(22) /usr/lib/python3.7/sre_parse.py
+fl=(49) /usr/lib/python3.7/enum.py
+fl=(96) /usr/lib/python3.7/argparse.py
+fl=(220) /usr/lib/python3.7/subprocess.py
+fl=(101) /usr/lib/python3.7/argparse.py
+fl=(56) /usr/lib/python3.7/_collections_abc.py
+fl=(187) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(180) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(102) /usr/lib/python3.7/argparse.py
+fl=(224) /usr/lib/python3.7/os.py
+fl=(15) /usr/lib/python3.7/sre_parse.py
+fl=(130) /usr/lib/python3.7/argparse.py
+fl=(188) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(124) /usr/lib/python3.7/sre_parse.py
+fl=(64) /usr/lib/python3.7/locale.py
+fl=(43) /usr/lib/python3.7/sre_compile.py
+fl=(18) /usr/lib/python3.7/sre_parse.py
+fl=(138) /usr/lib/python3.7/locale.py
+fl=(181) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(153) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(25) /usr/lib/python3.7/sre_parse.py
+fl=(197) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(171) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(38) /usr/lib/python3.7/sre_compile.py
+fl=(58) /usr/lib/python3.7/os.py
+fl=(103) /usr/lib/python3.7/argparse.py
+fl=(176) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(50) /usr/lib/python3.7/enum.py
+fl=(160) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(14) /usr/lib/python3.7/sre_parse.py
+fl=(189) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(46) /usr/lib/python3.7/sre_parse.py
+fl=(154) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(150) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(45) /usr/lib/python3.7/sre_compile.py
+fl=(29) /usr/lib/python3.7/sre_parse.py
+fl=(75) <frozen importlib._bootstrap>
+fl=(84) /usr/lib/python3.7/argparse.py
+fl=(80) /usr/lib/python3.7/argparse.py
+fl=(85) /usr/lib/python3.7/argparse.py
+fl=(11) /usr/lib/python3.7/sre_compile.py
+fl=(139) /usr/lib/python3.7/locale.py
+fl=(20) /usr/lib/python3.7/sre_parse.py
+fl=(123) /usr/lib/python3.7/sre_parse.py
+fl=(190) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(210) /bench/coding/goodreads/gr/gr2.py
+fl=(157) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(120) /usr/lib/python3.7/argparse.py
+fl=(97) /usr/lib/python3.7/argparse.py
+fl=(133) /usr/lib/python3.7/argparse.py
+fl=(198) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(107) /usr/lib/python3.7/argparse.py
+fl=(132) /usr/lib/python3.7/argparse.py
+fl=(106) /usr/lib/python3.7/argparse.py
+fl=(92) /usr/lib/python3.7/types.py
+fl=(6) /usr/lib/python3.7/argparse.py
+fl=(32) /usr/lib/python3.7/sre_parse.py
+fl=(40) /usr/lib/python3.7/sre_compile.py
+fl=(213) /bench/coding/goodreads/gr/gr2.py
+fl=(60) /usr/lib/python3.7/os.py
+fl=(175) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(87) /usr/lib/python3.7/argparse.py
+fl=(88) /usr/lib/python3.7/argparse.py
+fl=(168) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(194) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(51) /usr/lib/python3.7/enum.py
+fl=(182) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(155) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(172) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(158) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(148) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(141) /usr/lib/python3.7/_bootlocale.py
+fl=(166) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(100) /usr/lib/python3.7/argparse.py
+fl=(199) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(121) /usr/lib/python3.7/argparse.py
+fl=(163) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(30) /usr/lib/python3.7/sre_parse.py
+fl=(39) /usr/lib/python3.7/sre_compile.py
+fl=(195) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(16) /usr/lib/python3.7/sre_parse.py
+fl=(95) /usr/lib/python3.7/sre_compile.py
+fl=(125) /usr/lib/python3.7/sre_compile.py
+fl=(135) /usr/lib/python3.7/argparse.py
+fl=(204) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(169) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(184) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(178) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(200) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(144) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(116) /usr/lib/python3.7/argparse.py
+fl=(164) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(127) /usr/lib/python3.7/argparse.py
+fl=(143) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(91) /usr/lib/python3.7/argparse.py
+fl=(104) /usr/lib/python3.7/argparse.py
+fl=(31) /usr/lib/python3.7/sre_parse.py
+fl=(108) /usr/lib/python3.7/argparse.py
+fl=(159) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(93) /usr/lib/python3.7/enum.py
+fl=(183) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(147) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(167) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(134) /usr/lib/python3.7/argparse.py
+fl=(177) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(111) /usr/lib/python3.7/argparse.py
+fl=(115) /usr/lib/python3.7/argparse.py
+fl=(98) /usr/lib/python3.7/argparse.py
+fl=(186) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(193) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(214) /usr/lib/python3.7/argparse.py
+fl=(170) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(191) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(179) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(165) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(203) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(192) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(117) /usr/lib/python3.7/argparse.py
+fl=(205) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(162) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(206) /home/you/.local/lib/python3.7/site-packages/regex/regex.py
+fl=(173) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(196) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(185) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+fl=(174) /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py
+
+fn=(0) process_commandline /bench/coding/goodreads/gr/gr2.py:93
+fn=(217) Popen.__init__ /usr/lib/python3.7/subprocess.py:656
+fn=(2) ArgumentParser.__init__ /usr/lib/python3.7/argparse.py:1628
+fn=(240) get_gr_data_from_code /bench/coding/goodreads/gr/gr2.py:220
+fn=(223) Popen._execute_child /usr/lib/python3.7/subprocess.py:1383
+fn=(9) _compile /usr/lib/python3.7/re.py:271
+fn=(12) compile /usr/lib/python3.7/sre_compile.py:759
+fn=(8) compile /usr/lib/python3.7/re.py:232
+fn=(52) gettext /usr/lib/python3.7/gettext.py:639
+fn=(53) dgettext /usr/lib/python3.7/gettext.py:600
+fn=(54) translation /usr/lib/python3.7/gettext.py:529
+fn=(55) find /usr/lib/python3.7/gettext.py:474
+fn=(215) check_book_substr_with_gr /bench/coding/goodreads/gr/gr2.py:281
+fn=(13) parse /usr/lib/python3.7/sre_parse.py:919
+fn=(3) ArgumentParser.__init__ /usr/lib/python3.7/argparse.py:1250
+fn=(79) ArgumentParser.add_argument /usr/lib/python3.7/argparse.py:1331
+fn=(17) _parse_sub /usr/lib/python3.7/sre_parse.py:417
+fn=(109) ArgumentParser.parse_args /usr/lib/python3.7/argparse.py:1757
+fn=(110) ArgumentParser.parse_known_args /usr/lib/python3.7/argparse.py:1764
+fn=(113) ArgumentParser._parse_known_args /usr/lib/python3.7/argparse.py:1799
+fn=(118) consume_positionals /usr/lib/python3.7/argparse.py:1944
+fn=(19) _parse /usr/lib/python3.7/sre_parse.py:475
+fn=(33) _code /usr/lib/python3.7/sre_compile.py:598
+fn=(119) ArgumentParser._match_arguments_partial /usr/lib/python3.7/argparse.py:2095
+fn=(122) match /usr/lib/python3.7/re.py:170
+fn=(136) search /home/you/.local/lib/python3.7/site-packages/regex/regex.py:261
+fn=(89) ArgumentParser._get_formatter /usr/lib/python3.7/argparse.py:2469
+fn=(90) HelpFormatter.__init__ /usr/lib/python3.7/argparse.py:168
+fn=(137) _compile /home/you/.local/lib/python3.7/site-packages/regex/regex.py:434
+fn=(68) join /usr/lib/python3.7/posixpath.py:75
+fn=(41) _compile /usr/lib/python3.7/sre_compile.py:71
+fn=(234) Popen._internal_poll /usr/lib/python3.7/subprocess.py:1544
+fn=(232) Popen.__del__ /usr/lib/python3.7/subprocess.py:850
+fn=(218) _cleanup /usr/lib/python3.7/subprocess.py:226
+fn=(28) SubPattern.__getitem__ /usr/lib/python3.7/sre_parse.py:164
+fn=(34) _compile_info /usr/lib/python3.7/sre_compile.py:536
+fn=(145) _parse_pattern /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:387
+fn=(146) parse_sequence /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:397
+fn=(63) _expand_lang /usr/lib/python3.7/gettext.py:211
+fn=(73) exists /usr/lib/python3.7/genericpath.py:16
+fn=(77) ArgumentParser.add_argument_group /usr/lib/python3.7/argparse.py:1378
+fn=(78) _ArgumentGroup.__init__ /usr/lib/python3.7/argparse.py:1557
+fn=(35) SubPattern.getwidth /usr/lib/python3.7/sre_parse.py:174
+fn=(149) parse_set /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1365
+fn=(225) dirname /usr/lib/python3.7/posixpath.py:154
+fn=(70) _get_sep /usr/lib/python3.7/posixpath.py:41
+fn=(27) SubPattern.__len__ /usr/lib/python3.7/sre_parse.py:160
+fn=(21) Tokenizer.get /usr/lib/python3.7/sre_parse.py:254
+fn=(4) ArgumentParser.register /usr/lib/python3.7/argparse.py:1302
+fn=(42) _simple /usr/lib/python3.7/sre_compile.py:423
+fn=(128) take_action /usr/lib/python3.7/argparse.py:1846
+fn=(151) parse_set_imp_union /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1431
+fn=(57) _Environ.__getitem__ /usr/lib/python3.7/os.py:673
+fn=(241) Popen._handle_exitstatus /usr/lib/python3.7/subprocess.py:1526
+fn=(152) parse_set_member /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1454
+fn=(22) SubPattern.append /usr/lib/python3.7/sre_parse.py:172
+fn=(49) RegexFlag.__and__ /usr/lib/python3.7/enum.py:836
+fn=(96) HelpFormatter._format_args /usr/lib/python3.7/argparse.py:591
+fn=(220) Popen._get_handles /usr/lib/python3.7/subprocess.py:1329
+fn=(101) ArgumentParser._add_action /usr/lib/python3.7/argparse.py:1737
+fn=(56) _Environ.get /usr/lib/python3.7/_collections_abc.py:657
+fn=(187) Sequence.compile /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1845
+fn=(180) _get_required_string /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:4291
+fn=(102) _ArgumentGroup._add_action /usr/lib/python3.7/argparse.py:1579
+fn=(224) fsencode /usr/lib/python3.7/os.py:803
+fn=(15) Tokenizer.__next /usr/lib/python3.7/sre_parse.py:233
+fn=(130) ArgumentParser._get_values /usr/lib/python3.7/argparse.py:2347
+fn=(188) Sequence._compile /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3407
+fn=(124) Pattern.closegroup /usr/lib/python3.7/sre_parse.py:96
+fn=(64) normalize /usr/lib/python3.7/locale.py:384
+fn=(43) _optimize_charset /usr/lib/python3.7/sre_compile.py:276
+fn=(18) Tokenizer.tell /usr/lib/python3.7/sre_parse.py:286
+fn=(138) getpreferredencoding /usr/lib/python3.7/locale.py:647
+fn=(181) Sequence.get_required_string /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3514
+fn=(153) parse_set_item /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1495
+fn=(25) _escape /usr/lib/python3.7/sre_parse.py:343
+fn=(197) Sequence.get_firstset /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3391
+fn=(171) Sequence.optimise /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3328
+fn=(38) _get_literal_prefix /usr/lib/python3.7/sre_compile.py:461
+fn=(58) encode /usr/lib/python3.7/os.py:751
+fn=(103) _ArgumentGroup._add_action /usr/lib/python3.7/argparse.py:1388
+fn=(176) Sequence.pack_characters /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3340
+fn=(50) __call__ /usr/lib/python3.7/enum.py:284
+fn=(160) apply_quantifier /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:481
+fn=(14) Tokenizer.__init__ /usr/lib/python3.7/sre_parse.py:224
+fn=(189) GreedyRepeat._compile /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2805
+fn=(46) Pattern.groups /usr/lib/python3.7/sre_parse.py:81
+fn=(154) Character.__init__ /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2423
+fn=(150) Source.match /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:4122
+fn=(45) _compile_charset /usr/lib/python3.7/sre_compile.py:249
+fn=(29) Tokenizer.match /usr/lib/python3.7/sre_parse.py:249
+fn=(75) _handle_fromlist <frozen importlib._bootstrap>:1009
+fn=(84) ArgumentParser._pop_action_class /usr/lib/python3.7/argparse.py:1504
+fn=(80) ArgumentParser._get_optional_kwargs /usr/lib/python3.7/argparse.py:1468
+fn=(85) ArgumentParser._registry_get /usr/lib/python3.7/argparse.py:1306
+fn=(11) isstring /usr/lib/python3.7/sre_compile.py:595
+fn=(139) setlocale /usr/lib/python3.7/locale.py:589
+fn=(20) SubPattern.__init__ /usr/lib/python3.7/sre_parse.py:111
+fn=(123) Pattern.opengroup /usr/lib/python3.7/sre_parse.py:84
+fn=(190) Character._compile /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2452
+fn=(210) to_underscores /bench/coding/goodreads/gr/gr2.py:388
+fn=(157) Character.with_flags /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1798
+fn=(120) <listcomp> /usr/lib/python3.7/argparse.py:2101
+fn=(97) HelpFormatter._metavar_formatter /usr/lib/python3.7/argparse.py:575
+fn=(133) ArgumentParser._get_value /usr/lib/python3.7/argparse.py:2403
+fn=(198) GreedyRepeat.get_firstset /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2798
+fn=(107) _StoreAction.__init__ /usr/lib/python3.7/argparse.py:853
+fn=(132) <listcomp> /usr/lib/python3.7/argparse.py:2396
+fn=(106) ArgumentParser._get_positional_kwargs /usr/lib/python3.7/argparse.py:1452
+fn=(92) DynamicClassAttribute.__get__ /usr/lib/python3.7/types.py:164
+fn=(6) ArgumentParser._get_handler /usr/lib/python3.7/argparse.py:1508
+fn=(32) fix_flags /usr/lib/python3.7/sre_parse.py:903
+fn=(40) _get_charset_prefix /usr/lib/python3.7/sre_compile.py:492
+fn=(213) to_spaces /bench/coding/goodreads/gr/gr2.py:394
+fn=(60) decode /usr/lib/python3.7/os.py:755
+fn=(175) make_sequence /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1788
+fn=(87) _HelpAction.__init__ /usr/lib/python3.7/argparse.py:1033
+fn=(88) _HelpAction.__init__ /usr/lib/python3.7/argparse.py:811
+fn=(168) Sequence.fix_groups /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3324
+fn=(194) _flatten_code /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:346
+fn=(51) __new__ /usr/lib/python3.7/enum.py:526
+fn=(182) GreedyRepeat.get_required_string /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2842
+fn=(155) Character.__init__ /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1795
+fn=(172) GreedyRepeat.optimise /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2776
+fn=(158) Character.rebuild /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2440
+fn=(148) Source.get /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3979
+fn=(141) getpreferredencoding /usr/lib/python3.7/_bootlocale.py:33
+fn=(166) Sequence.__init__ /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3317
+fn=(100) format /usr/lib/python3.7/argparse.py:584
+fn=(199) Character.get_firstset /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2446
+fn=(121) ArgumentParser._get_nargs_pattern /usr/lib/python3.7/argparse.py:2214
+fn=(163) GreedyRepeat.__init__ /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2767
+fn=(30) SubPattern.__setitem__ /usr/lib/python3.7/sre_parse.py:168
+fn=(39) _get_iscased /usr/lib/python3.7/sre_compile.py:453
+fn=(195) Sequence.has_simple_start /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3404
+fn=(16) Pattern.__init__ /usr/lib/python3.7/sre_parse.py:76
+fn=(95) _generate_overlap_table /usr/lib/python3.7/sre_compile.py:432
+fn=(125) _combine_flags /usr/lib/python3.7/sre_compile.py:65
+fn=(135) _StoreAction.__call__ /usr/lib/python3.7/argparse.py:882
+fn=(204) _compile_firstset /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:305
+fn=(169) GreedyRepeat.fix_groups /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2773
+fn=(184) EndOfStringLine.get_required_string /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1860
+fn=(178) GreedyRepeat.pack_characters /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2781
+fn=(200) Character.__hash__ /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1851
+fn=(144) Info.__init__ /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:4190
+fn=(116) ArgumentParser._get_positional_actions /usr/lib/python3.7/argparse.py:1749
+fn=(164) EndOfStringLine.__init__ /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1865
+fn=(127) <listcomp> /usr/lib/python3.7/argparse.py:2105
+fn=(143) Source.__init__ /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3967
+fn=(91) _Section.__init__ /usr/lib/python3.7/argparse.py:213
+fn=(104) _ArgumentGroup._check_conflict /usr/lib/python3.7/argparse.py:1517
+fn=(31) SubPattern.__delitem__ /usr/lib/python3.7/sre_parse.py:162
+fn=(108) <listcomp> /usr/lib/python3.7/argparse.py:579
+fn=(159) parse_quantifier /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:529
+fn=(93) RegexFlag.value /usr/lib/python3.7/enum.py:628
+fn=(183) Character.max_width /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2479
+fn=(147) make_case_flags /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:354
+fn=(167) Source.at_end /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:4165
+fn=(134) ArgumentParser._check_value /usr/lib/python3.7/argparse.py:2429
+fn=(177) _flush_characters /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3422
+fn=(111) Namespace.__init__ /usr/lib/python3.7/argparse.py:1235
+fn=(115) ArgumentParser._parse_optional /usr/lib/python3.7/argparse.py:2111
+fn=(98) <listcomp> /usr/lib/python3.7/argparse.py:608
+fn=(186) _check_group_features /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:4252
+fn=(193) EndOfStringLine._compile /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1874
+fn=(214) Namespace.__contains__ /usr/lib/python3.7/argparse.py:1244
+fn=(170) Character.fix_groups /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1818
+fn=(191) PrecompiledCode.__init__ /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3125
+fn=(179) Character.pack_characters /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1824
+fn=(165) <listcomp> /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:478
+fn=(203) EndOfStringLine.get_firstset /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1871
+fn=(192) PrecompiledCode._compile /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:3128
+fn=(117) <listcomp> /usr/lib/python3.7/argparse.py:1750
+fn=(205) _check_firstset /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:315
+fn=(162) Character.is_empty /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1848
+fn=(206) <genexpr> /home/you/.local/lib/python3.7/site-packages/regex/regex.py:612
+fn=(173) Character.optimise /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:2443
+fn=(196) GreedyRepeat.has_simple_start /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1842
+fn=(185) EndOfStringLine.max_width /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1888
+fn=(174) EndOfStringLine.optimise /home/you/.local/lib/python3.7/site-packages/regex/_regex_core.py:1821
+
+fl=(0)
+fn=(0)
+93 66
+cfl=(215)
+cfn=(215)
+calls=1 0
+0 830
+cfl=(214)
+cfn=(214)
+calls=1 0
+0 1
+cfl=(213)
+cfn=(213)
+calls=1 0
+0 9
+cfl=(210)
+cfn=(210)
+calls=1 0
+0 8
+cfl=(136)
+cfn=(136)
+calls=1 0
+0 512
+cfl=(109)
+cfn=(109)
+calls=1 0
+0 690
+cfl=(79)
+cfn=(79)
+calls=2 0
+0 171
+cfl=(2)
+cfn=(2)
+calls=1 0
+0 2311
+
+fl=(217)
+fn=(217)
+656 300
+cfl=(223)
+cfn=(223)
+calls=2 0
+0 1686
+cfl=(220)
+cfn=(220)
+calls=2 0
+0 42
+cfl=(218)
+cfn=(218)
+calls=2 0
+0 205
+
+fl=(2)
+fn=(2)
+1628 27
+cfl=(79)
+cfn=(79)
+calls=1 0
+0 559
+cfl=(4)
+cfn=(4)
+calls=1 0
+0 2
+cfl=(77)
+cfn=(77)
+calls=2 0
+0 115
+cfl=(52)
+cfn=(52)
+calls=3 0
+0 931
+cfl=(3)
+cfn=(3)
+calls=1 0
+0 675
+
+fl=(240)
+fn=(240)
+220 165
+cfl=(232)
+cfn=(232)
+calls=1 0
+0 152
+cfl=(217)
+cfn=(217)
+calls=1 0
+0 1831
+
+fl=(223)
+fn=(223)
+1383 431
+cfl=(225)
+cfn=(225)
+calls=2 0
+0 77
+cfl=(224)
+cfn=(224)
+calls=2 0
+0 35
+
+fl=(9)
+fn=(9)
+271 57
+cfl=(92)
+cfn=(92)
+calls=3 0
+0 10
+cfl=(49)
+cfn=(49)
+calls=4 0
+0 44
+cfl=(12)
+cfn=(12)
+calls=4 0
+0 1443
+cfl=(11)
+cfn=(11)
+calls=4 0
+0 7
+
+fl=(12)
+fn=(12)
+759 40
+cfl=(46)
+cfn=(46)
+calls=8 0
+0 13
+cfl=(33)
+cfn=(33)
+calls=4 0
+0 606
+cfl=(13)
+cfn=(13)
+calls=4 0
+0 768
+cfl=(11)
+cfn=(11)
+calls=4 0
+0 6
+
+fl=(8)
+fn=(8)
+232 12
+cfl=(9)
+cfn=(9)
+calls=9 0
+0 1057
+
+fl=(52)
+fn=(52)
+639 4
+cfl=(53)
+cfn=(53)
+calls=3 0
+0 926
+
+fl=(53)
+fn=(53)
+600 13
+cfl=(54)
+cfn=(54)
+calls=3 0
+0 909
+
+fl=(54)
+fn=(54)
+529 19
+cfl=(75)
+cfn=(75)
+calls=3 0
+0 12
+cfl=(55)
+cfn=(55)
+calls=3 0
+0 877
+
+fl=(55)
+fn=(55)
+474 113
+cfl=(73)
+cfn=(73)
+calls=36 0
+0 142
+cfl=(68)
+cfn=(68)
+calls=36 0
+0 420
+cfl=(63)
+cfn=(63)
+calls=9 0
+0 144
+cfl=(56)
+cfn=(56)
+calls=3 0
+0 42
+
+fl=(215)
+fn=(215)
+281 120
+cfl=(232)
+cfn=(232)
+calls=1 0
+0 78
+cfl=(217)
+cfn=(217)
+calls=1 0
+0 492
+
+fl=(13)
+fn=(13)
+919 27
+cfl=(32)
+cfn=(32)
+calls=4 0
+0 9
+cfl=(17)
+cfn=(17)
+calls=4 0
+0 706
+cfl=(16)
+cfn=(16)
+calls=4 0
+0 4
+cfl=(14)
+cfn=(14)
+calls=4 0
+0 20
+
+fl=(3)
+fn=(3)
+1250 52
+cfl=(8)
+cfn=(8)
+calls=3 0
+0 636
+cfl=(6)
+cfn=(6)
+calls=3 0
+0 9
+cfl=(4)
+cfn=(4)
+calls=33 0
+0 61
+
+fl=(79)
+fn=(79)
+1331 64
+cfl=(107)
+cfn=(107)
+calls=2 0
+0 10
+cfl=(106)
+cfn=(106)
+calls=2 0
+0 10
+cfl=(101)
+cfn=(101)
+calls=3 0
+0 42
+cfl=(96)
+cfn=(96)
+calls=3 0
+0 43
+cfl=(89)
+cfn=(89)
+calls=3 0
+0 504
+cfl=(85)
+cfn=(85)
+calls=3 0
+0 5
+cfl=(87)
+cfn=(87)
+calls=1 0
+0 8
+cfl=(84)
+cfn=(84)
+calls=3 0
+0 17
+cfl=(80)
+cfn=(80)
+calls=1 0
+0 16
+
+fl=(17)
+fn=(17)
+417 59
+cfl=(22)
+cfn=(22)
+calls=3 0
+0 4
+cfl=(31)
+cfn=(31)
+calls=4 0
+0 2
+cfl=(28)
+cfn=(28)
+calls=6 0
+0 9
+cfl=(27)
+cfn=(27)
+calls=6 0
+0 9
+cfl=(20)
+cfn=(20)
+calls=1 0
+0 0
+cfl=(29)
+cfn=(29)
+calls=7 0
+0 7
+cfl=(19)
+cfn=(19)
+calls=7 0
+0 606
+cfl=(18)
+cfn=(18)
+calls=6 0
+0 11
+
+fl=(109)
+fn=(109)
+1757 3
+cfl=(110)
+cfn=(110)
+calls=1 0
+0 687
+
+fl=(110)
+fn=(110)
+1764 20
+cfl=(113)
+cfn=(113)
+calls=1 0
+0 659
+cfl=(111)
+cfn=(111)
+calls=1 0
+0 1
+
+fl=(113)
+fn=(113)
+1799 21
+cfl=(118)
+cfn=(118)
+calls=1 0
+0 628
+cfl=(116)
+cfn=(116)
+calls=1 0
+0 3
+cfl=(115)
+cfn=(115)
+calls=2 0
+0 1
+
+fl=(118)
+fn=(118)
+1944 13
+cfl=(128)
+cfn=(128)
+calls=2 0
+0 58
+cfl=(119)
+cfn=(119)
+calls=1 0
+0 556
+
+fl=(19)
+fn=(19)
+475 197
+cfl=(124)
+cfn=(124)
+calls=2 0
+0 34
+cfl=(17)
+cfn=(17)
+calls=2 0
+0 181
+cfl=(123)
+cfn=(123)
+calls=2 0
+0 13
+cfl=(30)
+cfn=(30)
+calls=9 0
+0 5
+cfl=(29)
+cfn=(29)
+calls=13 0
+0 11
+cfl=(28)
+cfn=(28)
+calls=58 0
+0 115
+cfl=(27)
+cfn=(27)
+calls=18 0
+0 29
+cfl=(18)
+cfn=(18)
+calls=11 0
+0 19
+cfl=(25)
+cfn=(25)
+calls=8 0
+0 27
+cfl=(22)
+cfn=(22)
+calls=22 0
+0 40
+cfl=(21)
+cfn=(21)
+calls=31 0
+0 64
+cfl=(20)
+cfn=(20)
+calls=7 0
+0 6
+
+fl=(33)
+fn=(33)
+598 18
+cfl=(41)
+cfn=(41)
+calls=4 0
+0 408
+cfl=(34)
+cfn=(34)
+calls=4 0
+0 177
+
+fl=(119)
+fn=(119)
+2095 14
+cfl=(127)
+cfn=(127)
+calls=1 0
+0 3
+cfl=(122)
+cfn=(122)
+calls=1 0
+0 523
+cfl=(120)
+cfn=(120)
+calls=1 0
+0 11
+
+fl=(122)
+fn=(122)
+170 2
+cfl=(9)
+cfn=(9)
+calls=1 0
+0 519
+
+fl=(136)
+fn=(136)
+261 12
+cfl=(137)
+cfn=(137)
+calls=1 0
+0 489
+
+fl=(89)
+fn=(89)
+2469 8
+cfl=(90)
+cfn=(90)
+calls=3 0
+0 496
+
+fl=(90)
+fn=(90)
+168 35
+cfl=(8)
+cfn=(8)
+calls=6 0
+0 433
+cfl=(91)
+cfn=(91)
+calls=3 0
+0 3
+cfl=(57)
+cfn=(57)
+calls=3 0
+0 19
+
+fl=(137)
+fn=(137)
+434 83
+cfl=(206)
+cfn=(206)
+calls=1 0
+0 0
+cfl=(204)
+cfn=(204)
+calls=1 0
+0 3
+cfl=(197)
+cfn=(197)
+calls=1 0
+0 26
+cfl=(195)
+cfn=(195)
+calls=1 0
+0 5
+cfl=(194)
+cfn=(194)
+calls=2 0
+0 8
+cfl=(187)
+cfn=(187)
+calls=1 0
+0 37
+cfl=(186)
+cfn=(186)
+calls=1 0
+0 1
+cfl=(180)
+cfn=(180)
+calls=1 0
+0 36
+cfl=(176)
+cfn=(176)
+calls=1 0
+0 23
+cfl=(171)
+cfn=(171)
+calls=1 0
+0 25
+cfl=(168)
+cfn=(168)
+calls=1 0
+0 8
+cfl=(167)
+cfn=(167)
+calls=1 0
+0 2
+cfl=(145)
+cfn=(145)
+calls=1 0
+0 173
+cfl=(144)
+cfn=(144)
+calls=1 0
+0 3
+cfl=(143)
+cfn=(143)
+calls=1 0
+0 3
+cfl=(138)
+cfn=(138)
+calls=1 0
+0 28
+cfl=(75)
+cfn=(75)
+calls=1 0
+0 4
+
+fl=(68)
+fn=(68)
+75 227
+cfl=(70)
+cfn=(70)
+calls=36 0
+0 58
+
+fl=(41)
+fn=(41)
+71 170
+cfl=(125)
+cfn=(125)
+calls=2 0
+0 1
+cfl=(45)
+cfn=(45)
+calls=4 0
+0 19
+cfl=(43)
+cfn=(43)
+calls=4 0
+0 32
+cfl=(42)
+cfn=(42)
+calls=9 0
+0 59
+cfl=(28)
+cfn=(28)
+calls=34 0
+0 58
+cfl=(41)
+cfn=(41)
+calls=13 0
+0 316
+
+fl=(234)
+fn=(234)
+1544 95
+cfl=(241)
+cfn=(241)
+calls=1 0
+0 51
+
+fl=(232)
+fn=(232)
+850 82
+cfl=(234)
+cfn=(234)
+calls=2 0
+0 70
+
+fl=(218)
+fn=(218)
+226 31
+cfl=(234)
+cfn=(234)
+calls=1 0
+0 164
+
+fl=(28)
+fn=(28)
+164 137
+cfl=(20)
+cfn=(20)
+calls=9 0
+0 6
+
+fl=(34)
+fn=(34)
+536 51
+cfl=(95)
+cfn=(95)
+calls=1 0
+0 4
+cfl=(40)
+cfn=(40)
+calls=3 0
+0 9
+cfl=(38)
+cfn=(38)
+calls=4 0
+0 24
+cfl=(35)
+cfn=(35)
+calls=4 0
+0 66
+
+fl=(145)
+fn=(145)
+387 4
+cfl=(150)
+cfn=(150)
+calls=1 0
+0 2
+cfl=(146)
+cfn=(146)
+calls=1 0
+0 166
+
+fl=(146)
+fn=(146)
+397 36
+cfl=(166)
+cfn=(166)
+calls=1 0
+0 2
+cfl=(165)
+cfn=(165)
+calls=1 0
+0 1
+cfl=(164)
+cfn=(164)
+calls=1 0
+0 3
+cfl=(160)
+cfn=(160)
+calls=1 0
+0 21
+cfl=(159)
+cfn=(159)
+calls=1 0
+0 2
+cfl=(149)
+cfn=(149)
+calls=1 0
+0 90
+cfl=(148)
+cfn=(148)
+calls=4 0
+0 5
+cfl=(147)
+cfn=(147)
+calls=1 0
+0 1
+
+fl=(63)
+fn=(63)
+211 76
+cfl=(64)
+cfn=(64)
+calls=9 0
+0 33
+
+fl=(73)
+fn=(73)
+16 50
+
+fl=(77)
+fn=(77)
+1378 12
+cfl=(78)
+cfn=(78)
+calls=2 0
+0 102
+
+fl=(78)
+fn=(78)
+1557 14
+cfl=(3)
+cfn=(3)
+calls=2 0
+0 84
+
+fl=(35)
+fn=(35)
+174 72
+cfl=(35)
+cfn=(35)
+calls=13 0
+0 50
+
+fl=(149)
+fn=(149)
+1365 13
+cfl=(147)
+cfn=(147)
+calls=1 0
+0 1
+cfl=(157)
+cfn=(157)
+calls=2 0
+0 12
+cfl=(151)
+cfn=(151)
+calls=1 0
+0 56
+cfl=(150)
+cfn=(150)
+calls=2 0
+0 7
+
+fl=(225)
+fn=(225)
+154 46
+cfl=(70)
+cfn=(70)
+calls=2 0
+0 13
+
+fl=(70)
+fn=(70)
+41 50
+
+fl=(27)
+fn=(27)
+160 46
+
+fl=(21)
+fn=(21)
+254 37
+cfl=(15)
+cfn=(15)
+calls=31 0
+0 26
+
+fl=(4)
+fn=(4)
+1302 46
+
+fl=(42)
+fn=(42)
+423 18
+cfl=(28)
+cfn=(28)
+calls=9 0
+0 15
+
+fl=(128)
+fn=(128)
+1846 16
+cfl=(135)
+cfn=(135)
+calls=2 0
+0 4
+cfl=(130)
+cfn=(130)
+calls=2 0
+0 34
+
+fl=(151)
+fn=(151)
+1431 4
+cfl=(150)
+cfn=(150)
+calls=1 0
+0 3
+cfl=(152)
+cfn=(152)
+calls=1 0
+0 47
+
+fl=(57)
+fn=(57)
+673 20
+cfl=(60)
+cfn=(60)
+calls=3 0
+0 9
+cfl=(58)
+cfn=(58)
+calls=6 0
+0 24
+
+fl=(241)
+fn=(241)
+1526 26
+
+fl=(152)
+fn=(152)
+1454 15
+cfl=(150)
+cfn=(150)
+calls=1 0
+0 2
+cfl=(153)
+cfn=(153)
+calls=1 0
+0 27
+
+fl=(22)
+fn=(22)
+172 32
+
+fl=(49)
+fn=(49)
+836 18
+cfl=(50)
+cfn=(50)
+calls=8 0
+0 22
+
+fl=(96)
+fn=(96)
+591 23
+cfl=(100)
+cfn=(100)
+calls=3 0
+0 6
+cfl=(98)
+cfn=(98)
+calls=2 0
+0 1
+cfl=(97)
+cfn=(97)
+calls=3 0
+0 10
+
+fl=(220)
+fn=(220)
+1329 13
+
+fl=(101)
+fn=(101)
+1737 6
+cfl=(102)
+cfn=(102)
+calls=3 0
+0 35
+
+fl=(56)
+fn=(56)
+657 7
+cfl=(57)
+cfn=(57)
+calls=3 0
+0 34
+
+fl=(187)
+fn=(187)
+1845 14
+cfl=(193)
+cfn=(193)
+calls=1 0
+0 1
+cfl=(192)
+cfn=(192)
+calls=1 0
+0 1
+cfl=(190)
+cfn=(190)
+calls=1 0
+0 12
+cfl=(189)
+cfn=(189)
+calls=1 0
+0 20
+cfl=(188)
+cfn=(188)
+calls=1 0
+0 34
+
+fl=(180)
+fn=(180)
+4291 8
+cfl=(181)
+cfn=(181)
+calls=1 0
+0 27
+
+fl=(102)
+fn=(102)
+1579 9
+cfl=(103)
+cfn=(103)
+calls=3 0
+0 24
+
+fl=(224)
+fn=(224)
+803 23
+
+fl=(15)
+fn=(15)
+233 35
+
+fl=(130)
+fn=(130)
+2347 15
+cfl=(133)
+cfn=(133)
+calls=1 0
+0 4
+cfl=(134)
+cfn=(134)
+calls=2 0
+0 1
+cfl=(132)
+cfn=(132)
+calls=1 0
+0 10
+
+fl=(188)
+fn=(188)
+3407 4
+cfl=(187)
+cfn=(187)
+calls=2 0
+0 28
+
+fl=(124)
+fn=(124)
+96 3
+cfl=(35)
+cfn=(35)
+calls=2 0
+0 30
+
+fl=(64)
+fn=(64)
+384 21
+
+fl=(43)
+fn=(43)
+276 22
+
+fl=(18)
+fn=(18)
+286 21
+
+fl=(138)
+fn=(138)
+647 7
+cfl=(141)
+cfn=(141)
+calls=1 0
+0 6
+cfl=(139)
+cfn=(139)
+calls=3 0
+0 14
+
+fl=(181)
+fn=(181)
+3514 16
+cfl=(184)
+cfn=(184)
+calls=1 0
+0 3
+cfl=(182)
+cfn=(182)
+calls=1 0
+0 8
+
+fl=(153)
+fn=(153)
+1495 8
+cfl=(154)
+cfn=(154)
+calls=1 0
+0 14
+cfl=(148)
+cfn=(148)
+calls=1 0
+0 0
+cfl=(150)
+cfn=(150)
+calls=2 0
+0 3
+
+fl=(25)
+fn=(25)
+343 18
+
+fl=(197)
+fn=(197)
+3391 13
+cfl=(203)
+cfn=(203)
+calls=1 0
+0 1
+cfl=(198)
+cfn=(198)
+calls=1 0
+0 10
+
+fl=(171)
+fn=(171)
+3328 9
+cfl=(175)
+cfn=(175)
+calls=1 0
+0 4
+cfl=(174)
+cfn=(174)
+calls=1 0
+0 0
+cfl=(172)
+cfn=(172)
+calls=1 0
+0 7
+
+fl=(38)
+fn=(38)
+461 17
+cfl=(38)
+cfn=(38)
+calls=1 0
+0 2
+cfl=(125)
+cfn=(125)
+calls=1 0
+0 2
+cfl=(39)
+cfn=(39)
+calls=5 0
+0 3
+
+fl=(58)
+fn=(58)
+751 15
+
+fl=(103)
+fn=(103)
+1388 15
+cfl=(104)
+cfn=(104)
+calls=3 0
+0 2
+
+fl=(176)
+fn=(176)
+3340 11
+cfl=(175)
+cfn=(175)
+calls=1 0
+0 4
+cfl=(179)
+cfn=(179)
+calls=1 0
+0 0
+cfl=(178)
+cfn=(178)
+calls=1 0
+0 3
+cfl=(177)
+cfn=(177)
+calls=3 0
+0 1
+
+fl=(50)
+fn=(50)
+284 14
+cfl=(51)
+cfn=(51)
+calls=8 0
+0 8
+
+fl=(160)
+fn=(160)
+481 14
+cfl=(163)
+cfn=(163)
+calls=1 0
+0 3
+cfl=(162)
+cfn=(162)
+calls=1 0
+0 0
+cfl=(148)
+cfn=(148)
+calls=1 0
+0 0
+
+fl=(14)
+fn=(14)
+224 13
+cfl=(15)
+cfn=(15)
+calls=4 0
+0 5
+
+fl=(189)
+fn=(189)
+2805 4
+cfl=(187)
+cfn=(187)
+calls=1 0
+0 15
+
+fl=(46)
+fn=(46)
+81 13
+
+fl=(154)
+fn=(154)
+2423 15
+cfl=(155)
+cfn=(155)
+calls=2 0
+0 2
+
+fl=(150)
+fn=(150)
+4122 12
+
+fl=(45)
+fn=(45)
+249 13
+
+fl=(29)
+fn=(29)
+249 16
+cfl=(15)
+cfn=(15)
+calls=3 0
+0 3
+
+fl=(75)
+fn=(75)
+1009 7
+
+fl=(84)
+fn=(84)
+1504 8
+cfl=(85)
+cfn=(85)
+calls=3 0
+0 6
+
+fl=(80)
+fn=(80)
+1468 11
+
+fl=(85)
+fn=(85)
+1306 10
+
+fl=(11)
+fn=(11)
+595 10
+
+fl=(139)
+fn=(139)
+589 5
+
+fl=(20)
+fn=(20)
+111 14
+
+fl=(123)
+fn=(123)
+84 6
+cfl=(46)
+cfn=(46)
+calls=4 0
+0 6
+
+fl=(190)
+fn=(190)
+2452 7
+cfl=(187)
+cfn=(187)
+calls=1 0
+0 3
+cfl=(191)
+cfn=(191)
+calls=1 0
+0 1
+
+fl=(210)
+fn=(210)
+388 6
+
+fl=(157)
+fn=(157)
+1798 5
+cfl=(158)
+cfn=(158)
+calls=1 0
+0 7
+
+fl=(120)
+fn=(120)
+2101 5
+cfl=(121)
+cfn=(121)
+calls=2 0
+0 6
+
+fl=(97)
+fn=(97)
+575 7
+cfl=(108)
+cfn=(108)
+calls=1 0
+0 2
+
+fl=(133)
+fn=(133)
+2403 5
+cfl=(85)
+cfn=(85)
+calls=2 0
+0 4
+
+fl=(198)
+fn=(198)
+2798 3
+cfl=(199)
+cfn=(199)
+calls=1 0
+0 6
+
+fl=(107)
+fn=(107)
+853 5
+cfl=(88)
+cfn=(88)
+calls=2 0
+0 5
+
+fl=(132)
+fn=(132)
+2396 4
+cfl=(133)
+cfn=(133)
+calls=1 0
+0 6
+
+fl=(106)
+fn=(106)
+1452 7
+
+fl=(92)
+fn=(92)
+164 7
+cfl=(93)
+cfn=(93)
+calls=3 0
+0 2
+
+fl=(6)
+fn=(6)
+1508 6
+
+fl=(32)
+fn=(32)
+903 7
+
+fl=(40)
+fn=(40)
+492 7
+cfl=(125)
+cfn=(125)
+calls=1 0
+0 0
+cfl=(39)
+cfn=(39)
+calls=3 0
+0 1
+
+fl=(213)
+fn=(213)
+394 3
+cfl=(210)
+cfn=(210)
+calls=1 0
+0 4
+
+fl=(60)
+fn=(60)
+755 6
+
+fl=(175)
+fn=(175)
+1788 4
+cfl=(166)
+cfn=(166)
+calls=2 0
+0 4
+
+fl=(87)
+fn=(87)
+1033 5
+cfl=(88)
+cfn=(88)
+calls=1 0
+0 3
+
+fl=(88)
+fn=(88)
+811 8
+
+fl=(168)
+fn=(168)
+3324 4
+cfl=(170)
+cfn=(170)
+calls=1 0
+0 0
+cfl=(169)
+cfn=(169)
+calls=1 0
+0 3
+
+fl=(194)
+fn=(194)
+346 4
+
+fl=(51)
+fn=(51)
+526 8
+
+fl=(182)
+fn=(182)
+2842 4
+cfl=(183)
+cfn=(183)
+calls=1 0
+0 2
+
+fl=(155)
+fn=(155)
+1795 8
+
+fl=(172)
+fn=(172)
+2776 4
+cfl=(163)
+cfn=(163)
+calls=1 0
+0 2
+cfl=(173)
+cfn=(173)
+calls=1 0
+0 0
+
+fl=(158)
+fn=(158)
+2440 1
+cfl=(154)
+cfn=(154)
+calls=1 0
+0 5
+
+fl=(148)
+fn=(148)
+3979 6
+
+fl=(141)
+fn=(141)
+33 4
+
+fl=(166)
+fn=(166)
+3317 4
+cfl=(155)
+cfn=(155)
+calls=3 0
+0 2
+
+fl=(100)
+fn=(100)
+584 4
+
+fl=(199)
+fn=(199)
+2446 3
+cfl=(200)
+cfn=(200)
+calls=1 0
+0 3
+
+fl=(121)
+fn=(121)
+2214 3
+
+fl=(163)
+fn=(163)
+2767 4
+cfl=(155)
+cfn=(155)
+calls=2 0
+0 1
+
+fl=(30)
+fn=(30)
+168 5
+
+fl=(39)
+fn=(39)
+453 5
+
+fl=(195)
+fn=(195)
+3404 4
+cfl=(196)
+cfn=(196)
+calls=1 0
+0 0
+
+fl=(16)
+fn=(16)
+76 4
+
+fl=(95)
+fn=(95)
+432 3
+
+fl=(125)
+fn=(125)
+65 4
+
+fl=(135)
+fn=(135)
+882 2
+
+fl=(204)
+fn=(204)
+305 2
+cfl=(205)
+cfn=(205)
+calls=1 0
+0 0
+
+fl=(169)
+fn=(169)
+2773 3
+cfl=(170)
+cfn=(170)
+calls=1 0
+0 0
+
+fl=(184)
+fn=(184)
+1860 2
+cfl=(185)
+cfn=(185)
+calls=1 0
+0 0
+
+fl=(178)
+fn=(178)
+2781 2
+cfl=(179)
+cfn=(179)
+calls=1 0
+0 0
+
+fl=(200)
+fn=(200)
+1851 2
+
+fl=(144)
+fn=(144)
+4190 3
+
+fl=(116)
+fn=(116)
+1749 2
+cfl=(117)
+cfn=(117)
+calls=1 0
+0 0
+
+fl=(164)
+fn=(164)
+1865 2
+cfl=(155)
+cfn=(155)
+calls=1 0
+0 0
+
+fl=(127)
+fn=(127)
+2105 2
+
+fl=(143)
+fn=(143)
+3967 2
+
+fl=(91)
+fn=(91)
+213 3
+
+fl=(104)
+fn=(104)
+1517 2
+
+fl=(31)
+fn=(31)
+162 2
+
+fl=(108)
+fn=(108)
+579 2
+
+fl=(159)
+fn=(159)
+529 1
+
+fl=(93)
+fn=(93)
+628 2
+
+fl=(183)
+fn=(183)
+2479 1
+
+fl=(147)
+fn=(147)
+354 2
+
+fl=(167)
+fn=(167)
+4165 1
+
+fl=(134)
+fn=(134)
+2429 1
+
+fl=(177)
+fn=(177)
+3422 1
+
+fl=(111)
+fn=(111)
+1235 1
+
+fl=(115)
+fn=(115)
+2111 1
+
+fl=(98)
+fn=(98)
+608 1
+
+fl=(186)
+fn=(186)
+4252 1
+
+fl=(193)
+fn=(193)
+1874 1
+
+fl=(214)
+fn=(214)
+1244 1
+
+fl=(170)
+fn=(170)
+1818 1
+
+fl=(191)
+fn=(191)
+3125 1
+
+fl=(179)
+fn=(179)
+1824 1
+
+fl=(165)
+fn=(165)
+478 1
+
+fl=(203)
+fn=(203)
+1871 1
+
+fl=(192)
+fn=(192)
+3128 1
+
+fl=(117)
+fn=(117)
+1750 0
+
+fl=(205)
+fn=(205)
+315 0
+
+fl=(162)
+fn=(162)
+1848 0
+
+fl=(206)
+fn=(206)
+612 0
+
+fl=(173)
+fn=(173)
+2443 0
+
+fl=(196)
+fn=(196)
+1842 0
+
+fl=(185)
+fn=(185)
+1888 0
+
+fl=(174)
+fn=(174)
+1821 0
