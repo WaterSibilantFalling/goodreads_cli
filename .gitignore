@@ -1,2 +1,5 @@
 Of_Human_Bondage
+env/*
+env
+*.sw?
 
